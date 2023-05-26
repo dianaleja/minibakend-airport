@@ -1,131 +1,71 @@
 {
-    "flights": [
+   "flights": [
+       {
+           "id": "1",
+           "departure_date": "Mier, 20 Jun, 2023",
+           "arrival_date": "Jue, 21 Jun, 2023",
+           "hour" : "8:30 AM",
+           "hourfinal" : "9:10 AM",
+           "seat" : "60",
+           "cityorigen" : "Medellín",
+           "initialor" : "MED",
+           "destination" : "Bogota",
+           "initialorDon" : "BOG",
+           "costFlights" : "$250.000",
+           "costBaggage" : "$90.000",
+           "discount": "$30.000",
+           "time" : "1 hora"
+        },
+        { 
+           "id": "2",
+           "departure_date": "Lun, 14 Agost, 2023",
+           "arrival_date": "Mart, 15 Agost, 2023",
+           "hour" : "2:30 PM",
+           "hourfinal" : "3:30 AM",
+           "seat" : "60",
+           "cityorigen" : "Medellín",
+           "initialor" : "MED",
+           "destination": "El Dorado",
+           "initialorDon" : "BOG",
+           "costFlights" : "$250.000",
+           "costBaggage" : "$90.000",
+           "time" : "1 hora"
+        },
+
         {
-            "id": "1",
-            "departure_date": "2023-06-12",
-            "hour" : "8:30 AM",
-            "hourfinal" : "9:30 AM",
-            "seat" : "60",
-            "cityorigen" : "Medellín",
-            "origen": "José Maria Cordova",
-            "initialor" : "MED",
-            "citydestination" : "Bogota",
-            "destination": "El Dorado",
-            "initialdes" : "BOG",
-            "cost" : "$250.000",
-            "time" : "1 hora"
-         },
-         { 
-            "id": "2",
-            "departure_date": "2023-06-12",
-            "hour" : "2:30 PM",
-            "hourfinal" : "3:30 AM",
-            "seat" : "60",
-            "cityorigen" : "Medellín",
-            "origen": "José Maria Cordova",
-            "initialor" : "MED",
-            "citydestination" : "Bogota",
-            "destination": "El Dorado",
-            "initialdes" : "BOG",
-            "cost" : "$250.000",
-            "time" : "1 hora"
-         },
-
-         {
-            "id": "3",
-            "arrival_date": "2023-06-28",
-            "hour" : "11:30 AM",
-            "hourfinal" : "12:30 AM",
-            "seat" : "60",
-            "cityorigen" : "Bogota",
-            "origen": "El Dorado",
-            "initialso" : "BOG",
-            "citydestination" : "Medellín",
-            "destination": "José Maria Cordova",
-            "initialsd" : "MED",
-            "cost" : "$250.000",
-            "time" : "1 hora"
-         },
-         { 
-            "id": "4",
-            "arrival_date": "2023-06-12",
-            "hour" : "2:30 PM",
-            "hourfinal" : "3:30 AM",
-            "seat" : "60",
-            "cityorigen" : "Bogota",
-            "origen": "El Dorado",
-            "initialso" : "BOG",
-            "citydestination" : "Medellín",
-            "destination": "José Maria Cordova",
-            "initialsd" : "MED",
-            "cost" : "$250.000",
-            "time" : "1 hora"
-         },
-
-
-         {
-            "id": "5",
-            "departure_date": "2023-08-09",
-            "hour" : "9:30 AM",
-            "hourfinal" : "10:40 AM",
-            "seat" : "60",
-            "cityorigen" : "Popayan",
-            "origen": "Guillermo Leon Valencia",
-            "initialor" : "PPN",
-            "citydestination" : "Bogota",
-            "destination": "El Dorado",
-            "initialdes" : "BOG",
-            "cost" : "$250.000",
-            "time" : "1 h 10 min"
-         },
-         { 
-            "id": "6",
-            "departure_date": "2023-08-09",
-            "hour" : "5:30 PM",
-            "hourfinal" : "3:30 AM",
-            "seat" : "60",
-            "cityorigen" : "Popayan",
-            "origen": "Guillermo Leon Valencia",
-            "initialor" : "PPN",
-            "citydestination" : "Bogota",
-            "destination": "El Dorado",
-            "initialdes" : "BOG",
-            "cost" : "$250.000",
-            "time" : "1 h 10 min"
-         },
-
-         {
-            "id": "7",
-            "arrival_date": "2023-09-02",
-            "hour" : "11:30 AM",
-            "hourfinal" : "12:40 AM",
-            "seat" : "60",
-            "cityorigen" : "Bogota",
-            "origen": "El Dorado",
-            "initialso" : "BOG",
-            "citydestination" : "Popayan",
-            "destination": "Guillermo Leon Valencia",
-            "initialsd" : "PPN",
-            "cost" : "$250.000",
-            "time" : "1 h 10 min"
-         },
-         { 
-            "id": "8",
-            "arrival_date": "2023-09-02",
-            "hour" : "2:30 PM",
-            "hourfinal" : "3:40 AM",
-            "seat" : "60",
-            "cityorigen" : "Bogota",
-            "origen": "El Dorado",
-            "initialso" : "BOG",
-            "citydestination" : "Popayan",
-            "destination": "Guillermo Leon Valencia",
-            "initialsd" : "PPN",
-            "cost" : "$250.000",
-            "time" : "1 h 10 min"
-         }
-            
-    ]
-    
-      
+           "id": "3",
+           "departure_date": "Vier, 29 Sep, 2023",
+           "arrival_date": "Sab, 30 Sep, 2023",
+           "hour" : "11:30 AM",
+           "hourfinal" : "12:30 AM",
+           "seat" : "60",
+           "cityorigen" : "Bogota",
+           "initialor" : "BOG",
+           "destination": "José Maria Cordova",
+           "initialorDon" : "MED",
+           "costFlights" : "$250.000",
+           "costBaggage" : "$90.000",
+           "discount": "$30.000",
+           "time" : "1 hora"
+        },
+        { 
+           "id": "4",
+           "departure_date": "Mier, 04 Oct, 2023",
+           "arrival_date": "Juev, 03 Oct, 2023",
+           "hour" : "2:30 PM",
+           "hourfinal" : "3:30 AM",
+           "seat" : "60",
+           "cityorigen": "El Dorado",
+           "initialor" : "BOG",
+           "destination" : "Medellín",
+           "initialorDon" : "MED",
+           "costFlights" : "$250.000",
+           "costBaggage" : "$90.000",
+           "discount": "$30.000",
+           "time" : "1 hora"
+        }
+           
+   ]
+   
+     
 }
