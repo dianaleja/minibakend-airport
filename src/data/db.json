@@ -1,99 +1,96 @@
 {
-   "flights": [
-      {
-         "id": "1",
-         "departure_date": "Mier, 20 Jun, 2023",
-         "arrival_date": "Jue, 21 Jun, 2023",
-         "hour": "8:30 AM",
-         "hourfinal": "9:10 AM",
-         "seat": "60",
-         "cityorigen": "Medellín",
-         "initialor": "MED",
-         "destination": "Bogota",
-         "initialorDon": "BOG",
-         "costFlights": "$250.000",
-         "costBaggage": "$90.000",
-         "discount": "$30.000",
-         "time": "1 hora",
-
-         "seating": {
-            "adults":"",
-            "children": "",
-            "babies": ""
-         }
-      },
-      {
-         "id": "2",
-         "departure_date": "Lun, 14 Agost, 2023",
-         "arrival_date": "Mart, 15 Agost, 2023",
-         "hour": "2:30 PM",
-         "hourfinal": "3:30 AM",
-         "seat": "60",
-         "cityorigen": "Medellín",
-         "initialor": "MED",
-         "destination": "El Dorado",
-         "initialorDon": "BOG",
-         "costFlights": "$250.000",
-         "costBaggage": "$90.000",
-         "time": "1 hora",
-
-         "seating": {
-            "adults":"",
-            "children": "",
-            "babies": ""
-         }
-      },
-      {
-         "id": "3",
-         "departure_date": "Vier, 29 Sep, 2023",
-         "arrival_date": "Sab, 30 Sep, 2023",
-         "hour": "11:30 AM",
-         "hourfinal": "12:30 AM",
-         "seat": "60",
-         "cityorigen": "Bogota",
-         "initialor": "BOG",
-         "destination": "José Maria Cordova",
-         "initialorDon": "MED",
-         "costFlights": "$250.000",
-         "costBaggage": "$90.000",
-         "discount": "$30.000",
-         "time": "1 hora",
-
-         "seating": {
-            "adults":"",
-            "children": "",
-            "babies": ""
-         }
-      },
-      {
-         "id": "4",
-         "departure_date": "Mier, 04 Oct, 2023",
-         "arrival_date": "Juev, 03 Oct, 2023",
-         "hour": "2:30 PM",
-         "hourfinal": "3:30 AM",
-         "seat": "60",
-         "cityorigen": "El Dorado",
-         "initialor": "BOG",
-         "destination": "Medellín",
-         "initialorDon": "MED",
-         "costFlights": "$250.000",
-         "costBaggage": "$90.000",
-         "discount": "$30.000",
-         "time": "1 hora",
-
-         "seating": {
-            "adults":"",
-            "children": "",
-            "babies": ""
-         }
+  "flights": [
+    {
+      "id": "1",
+      "departure_date": "Mier, 20 Jun, 2023",
+      "arrival_date": "Jue, 21 Jun, 2023",
+      "hour": "8:30 AM",
+      "hourfinal": "9:10 AM",
+      "seat": "60",
+      "cityorigen": "Medellín",
+      "initialor": "MED",
+      "destination": "Bogota",
+      "initialorDon": "BOG",
+      "costFlights": "$250.000",
+      "costBaggage": "$90.000",
+      "discount": "$30.000",
+      "time": "1 hora",
+      "seating": {
+        "adults": "",
+        "children": "",
+        "babies": ""
       }
-   ],
-   "pasajeros": [
-      {
-         "nombre": "",
-         "numero de reserva": "",
-         "codigo del vuelo": "",
-         "numero de asientos": ""
+    },
+    {
+      "id": "2",
+      "departure_date": "Lun, 14 Agost, 2023",
+      "arrival_date": "Mart, 15 Agost, 2023",
+      "hour": "2:30 PM",
+      "hourfinal": "3:30 AM",
+      "seat": "60",
+      "cityorigen": "Medellín",
+      "initialor": "MED",
+      "destination": "El Dorado",
+      "initialorDon": "BOG",
+      "costFlights": "$250.000",
+      "costBaggage": "$90.000",
+      "time": "1 hora",
+      "seating": {
+        "adults": "",
+        "children": "",
+        "babies": ""
       }
-   ]
+    },
+    {
+      "id": "3",
+      "departure_date": "Vier, 29 Sep, 2023",
+      "arrival_date": "Sab, 30 Sep, 2023",
+      "hour": "11:30 AM",
+      "hourfinal": "12:30 AM",
+      "seat": "60",
+      "cityorigen": "Bogota",
+      "initialor": "BOG",
+      "destination": "José Maria Cordova",
+      "initialorDon": "MED",
+      "costFlights": "$250.000",
+      "costBaggage": "$90.000",
+      "discount": "$30.000",
+      "time": "1 hora",
+      "seating": {
+        "adults": "",
+        "children": "",
+        "babies": ""
+      }
+    },
+    {
+      "id": "4",
+      "departure_date": "Mier, 04 Oct, 2023",
+      "arrival_date": "Juev, 03 Oct, 2023",
+      "hour": "2:30 PM",
+      "hourfinal": "3:30 AM",
+      "seat": "60",
+      "cityorigen": "El Dorado",
+      "initialor": "BOG",
+      "destination": "Medellín",
+      "initialorDon": "MED",
+      "costFlights": "$250.000",
+      "costBaggage": "$90.000",
+      "discount": "$30.000",
+      "time": "1 hora",
+      "seating": {
+        "adults": "",
+        "children": "",
+        "babies": ""
+      }
+    }
+  ],
+  "pasajeros": [
+    {
+      "nombre": "",
+      "numero de reserva": "",
+      "codigo del vuelo": "",
+      "numero de asientos": ""
+    }
+  ],
+  "compra": []
 }
